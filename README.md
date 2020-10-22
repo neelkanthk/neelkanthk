@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelkanth Kaushik</h1>
-<h3 align="center">Software Engineer & Application Architect. <br> PHP, Laravel, Elasticsearch, MySQL, MongoDB, VueJs, WordPress</h3>
+<h3 align="center">Software Engineer & Application Architect.</h3> <br> <h2>Expertise: PHP, Laravel, Elasticsearch, MySQL, MongoDB, VueJs, WordPress</h2> <br> <h2>Interest Areas: Writing maintainable code, Design Patterns, API Development, Search Intensive Applications, Recommendation Engines</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelkanthk&label=Profile%20views&color=0e75b6&style=flat" alt="neelkanthk" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamneelkanth" target="blank"><img src="https://img.shields.io/twitter/follow/iamneelkanth?logo=twitter&style=for-the-badge" alt="iamneelkanth" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel Packages**
+- 🌱 I’m currently learning **Go**
 
-- 🌱 I’m currently learning **Go, Rust**
-
-- 💬 Ask me about **PHP, Laravel, Application architecture Elasticsearch, MySQL, WordPress**
+- 💬 Ask me about **API development, PHP, Laravel, Application Architecture, Elasticsearch, MySQL, WordPress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
