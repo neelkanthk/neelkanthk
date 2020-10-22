@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neelkanth Kaushik</h1>
-<h3 align="center">Software Engineer & Application Architect.</h3><h2>Expertise: PHP, Laravel, Elasticsearch, MySQL, MongoDB, VueJs, WordPress</h2><h2>Interest Areas: Writing maintainable code, Design Patterns, API Development, Search Intensive Applications, Recommendation Engines</h2>
+<h3 align="center">Software Engineer & Application Architect.</h3><h4>Expertise: PHP, Laravel, Elasticsearch, MySQL, MongoDB, VueJs, WordPress</h4><h4>Interest Areas: Writing maintainable code, Design Patterns, API Development, Search Intensive Applications, Recommendation Engines</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelkanthk&label=Profile%20views&color=0e75b6&style=flat" alt="neelkanthk" /> </p>
 
